@@ -1,6 +1,6 @@
 🌑 AnthonyDev – Instalador de NvChad para Termux
 
-AnthonyDev es un script sencillo en Bash que automatiza la descarga, instalación y configuración de NvChad en Termux. Ideal para quienes desean un entorno de desarrollo en Neovim optimizado y listo para usar en Android.
+un script sencillo en Bash que automatiza la descarga, instalación y configuración de NvChad en Termux. Ideal para quienes desean un entorno de desarrollo en Neovim optimizado y listo para usar en Android.
 
 ---
 
@@ -21,8 +21,8 @@ Abre Termux y ejecuta los siguientes comandos:
 apt update && apt upgrade -y
 apt install git -y
 git clone https://github.com/dark34-dev/DARKNVIM
-cd DARKNVIM
-bash DARKNVIM
+cd ANTHONYVIM
+bash ANTHONYVIM
 `
 
 ---
