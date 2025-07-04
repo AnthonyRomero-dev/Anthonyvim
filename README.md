@@ -17,12 +17,20 @@ un script sencillo en Bash que automatiza la descarga, instalación y configurac
 
 Abre Termux y ejecuta los siguientes comandos:
 
-`bash
+
 apt update && apt upgrade -y
+
+ls
+
 apt install git -y
+
 git clone https://github.com/AnthonyRomero-dev/Anthonyvim.git
+
 cd ANTHONYVIM
+
 bash ANTHONYVIM
+
+chmod +x anthonydev.sh
 `
 
 ---
