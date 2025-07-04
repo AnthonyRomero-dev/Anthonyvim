@@ -20,7 +20,7 @@ Abre Termux y ejecuta los siguientes comandos:
 `bash
 apt update && apt upgrade -y
 apt install git -y
-git clone https://github.com/dark34-dev/DARKNVIM
+git clone https://github.com/AnthonyRomero-dev/Anthonyvim.git
 cd ANTHONYVIM
 bash ANTHONYVIM
 `
