@@ -19,7 +19,7 @@ function banner {
   apt install -y figlet > /dev/null 2>&1
   clear
   echo -e "${c}"
-  figlet "ANTHONYVIM"
+  figlet "Anthonyvim"
 }
 
 function main {
