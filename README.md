@@ -24,3 +24,10 @@ Sigue estos pasos para instalar y configurar NvChad en Termux:
    apt install git -y
 
 2    Clona el repositorio: git clone https://github.com/AnthonyRomero-dev/Anthonyvim.git
+
+3   Accede al directorio del proyecto: cd Anthonyvim
+
+4    Ejecuta el script de instalación: bash anthonydev.sh (Si es necesario, asegúrate que el script tenga permisos de ejecución)
+
+
+5    Otorga permisos de ejecución (opcional): chmod +x anthonydev.sh
