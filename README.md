@@ -22,3 +22,5 @@ Sigue estos pasos para instalar y configurar NvChad en Termux:
    ```bash
    apt update && apt upgrade -y
    apt install git -y
+
+2    Clona el repositorio: git clone https://github.com/AnthonyRomero-dev/Anthonyvim.git
